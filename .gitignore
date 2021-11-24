@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+.idea/
+
+# mdbook HTML output
+book/
+
+# MS Office documents
+*.docx
+
+# Compressed files
+*.rar
+*.zip

@@ -1,0 +1,18 @@
+[book]
+authors = ["henry_23"]
+language = "zh-Hans"
+multilingual = false
+src = "src"
+title = "Learn Data Science"
+
+[output.html]
+additional-css = [
+    "theme/css/custom-style.css",
+    "theme/css/custom-font.css",
+]
+# Git 仓库链接
+git-repository-url = "https://github.com/tsagaanbar/learn-data-science"
+# 编辑链接模板
+edit-url-template = "https://github.com/tsagaanbar/learn-data-science/edit/main/{path}"
+# MathJax 支持
+mathjax-support = true
